@@ -1,5 +1,7 @@
 # lambdaconf-2018-workshop
 
+[![Gitter chat](https://badges.gitter.im/lambdaconf-2018-workshop/Lobby.png)](https://gitter.im/lambdaconf-2018-workshop/Lobby)
+
 LambdaConf 2018 workshop on building Telegram bots in Haskell.
 
 ## Preparing for the workshop

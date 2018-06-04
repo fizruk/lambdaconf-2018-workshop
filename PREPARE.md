@@ -89,6 +89,13 @@ that allows you to create new bots!
 Be sure to save your newly created bot token (masked on the screenshot)!
 You will need it to operate your bot during the workshop.
 
+## Join Gitter.im chat room
+
+[![Gitter chat](https://badges.gitter.im/lambdaconf-2018-workshop/Lobby.png)](https://gitter.im/lambdaconf-2018-workshop/Lobby)
+
+If you want to discuss things with other workshop attendees or ask questions before/after workshop,
+feel free to join a dedicated [chat room on Gitter.im](https://gitter.im/lambdaconf-2018-workshop/Lobby).
+
 ## Come to the workshop
 
 That's it! You're all set up and ready for the workshop :)
