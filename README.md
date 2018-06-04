@@ -4,6 +4,8 @@
 
 LambdaConf 2018 workshop on building Telegram bots in Haskell.
 
+![Stage 8 demo](images/stage_8_demo.gif)
+
 ## Preparing for the workshop
 
 See [preparation instructions](PREPARE.md) to get ready for the workshop ahead of time!
