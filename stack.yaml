@@ -3,4 +3,4 @@ packages:
   - '.'
 extra-deps:
   - git: https://github.com/fizruk/telegram-bot-simple.git
-    commit: v0.2
+    commit: f56c45a3aaeaf3842406d3098de2aafa4251e97d
